@@ -1,16 +1,16 @@
 TASK 8: Simple Sales Dashboard Design
 
  Objective:
- Create a basic interactive dashboard that shows sales performance by product, region, and month.
+ A basic interactive dashboard that shows Comparative Analysis Of Zomato & Swiggy Based on Consumer Perception.
 
  🛠 Tools:
- Power BI or Tableau (choose one)
- (Optional: Python + Pandas for cleaning)
+ Power BI 
+ Python + Pandas for cleaning
 
  📁 Dataset:
- Superstore_Sales.csv (Columns: Order Date, Region, Category, Sales, Profit)/ ANY DATA SET
+ swiggy_vs_zomato_dummy_data.csv (Columns: OrderID, Platform, City, Restaurant, Cuisine, OrderValue, DeliveryTime, CustomerRating, OrderHour, 
+ OrderDay)
 
  📦 Deliverables:
- 1 screenshot or PDF export of the dashboard
- 3–4 insights written in a text file or slide
+ Report that contains the 3–4 insights, along with the output screenshots of the dashboard.
  
