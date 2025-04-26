@@ -15,4 +15,4 @@ TASK 7: Get Basic Sales Summary from a Tiny SQLite Database using Python
  Python script (or notebook) that:
  Connects to sales_data.db
  Runs SQL queries
- Displays output using print, matplotlib & seaborn
+ Displays output using print, matplotlib, and seaborn
